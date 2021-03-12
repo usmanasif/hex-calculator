@@ -1,0 +1,32 @@
+.field {
+
+  width: 20rem;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  margin: 1rem;
+}
+
+.output {
+  cursor: pointer;
+  color: white;
+}
+
+.btn {
+  width: 10rem;
+  border-radius: 1rem;
+  padding: 1rem 1rem;
+  font-size: 1rem;
+  margin: 1rem;
+  color: white;
+  background: #479e9e;
+  border: 1px solid white;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.field:focus {
+  outline: none;
+}
