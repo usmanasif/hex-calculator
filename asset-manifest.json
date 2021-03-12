@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hex-calculator.git/static/css/main.75d3c6b1.chunk.css",
+    "main.js": "/hex-calculator.git/static/js/main.b59b94ed.chunk.js",
+    "main.js.map": "/hex-calculator.git/static/js/main.b59b94ed.chunk.js.map",
+    "runtime-main.js": "/hex-calculator.git/static/js/runtime-main.fd01b5a5.js",
+    "runtime-main.js.map": "/hex-calculator.git/static/js/runtime-main.fd01b5a5.js.map",
+    "static/js/2.a1100aa7.chunk.js": "/hex-calculator.git/static/js/2.a1100aa7.chunk.js",
+    "static/js/2.a1100aa7.chunk.js.map": "/hex-calculator.git/static/js/2.a1100aa7.chunk.js.map",
+    "static/js/3.52437ae1.chunk.js": "/hex-calculator.git/static/js/3.52437ae1.chunk.js",
+    "static/js/3.52437ae1.chunk.js.map": "/hex-calculator.git/static/js/3.52437ae1.chunk.js.map",
+    "index.html": "/hex-calculator.git/index.html",
+    "static/css/main.75d3c6b1.chunk.css.map": "/hex-calculator.git/static/css/main.75d3c6b1.chunk.css.map",
+    "static/js/2.a1100aa7.chunk.js.LICENSE.txt": "/hex-calculator.git/static/js/2.a1100aa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd01b5a5.js",
+    "static/js/2.a1100aa7.chunk.js",
+    "static/css/main.75d3c6b1.chunk.css",
+    "static/js/main.b59b94ed.chunk.js"
+  ]
+}
